@@ -8,8 +8,9 @@ Integra funcionalidades de autenticación de usuarios, geolocalización, visuali
 ## Funcionalidades Principales
 
 *   **Autenticación de Usuarios:**
-    *   Registro, inicio de sesión, cierre de sesión y recuperación de contraseña.
-    *   Implementado con Firebase (email/contraseña).
+    *   Registro, inicio de sesión, regsitro, cierre de sesión y recuperación de contraseña.
+    *   Implementado con Firebase.
+    *   No contiene un dashboard
 *   **Geolocalización:**
     *   Obtención de la ubicación geográfica del usuario.
     *   Visualización de la ubicación en un mapa interactivo con Leaflet.js.
@@ -17,7 +18,7 @@ Integra funcionalidades de autenticación de usuarios, geolocalización, visuali
     *   Integración con la API OpenWeatherMap para obtener datos del clima y pronósticos.
     *   Visualización de temperatura, humedad, precipitaciones y velocidad del viento.
 *   **Información Gráfica en Mapa:**
-    *   Visualización de información ambiental relevante en el mapa (humedad, lluvias).
+    *   Visualización de información ambiental en el mapa
 *   **Análisis Masivo de Datos:**
     *   Consulta y visualización de datos masivos de la API.
     *   Tablas interactivas con DataTables
